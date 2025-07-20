@@ -28,7 +28,7 @@ The Project implements a Churn prediction using Logistic Regression, which analy
 
 ---
 ## Run the app
-  - streamlit run app.py
+  - streamlit run main.py
 ---
 
 
