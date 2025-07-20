@@ -1,14 +1,8 @@
 # Churn-Prediction-Model
 The Project implements a Churn prediction using Logistic Regression, which analyze customer patterns to predict the risk of leaving Customer
 ## 📂 Project Structure
-├── app 
-  └── main.py 
-├── data
-  └──  cleaned_data.csv 
-  └──  data.ipynb              
-  └──  WA_Fn-UseC_-Telco...    # Raw dataset
-├── model
-  └── test.py                 # Churn prediction model script
+  ├── app/ │   └── main.py                 # Streamlit interface │ ├── data/ │   ├── cleaned_data.csv        # Final processed dataset │   ├── data.ipynb              # Exploratory analysis notebook │   └── WA_Fn-UseC_-Telco...    # Raw dataset │ ├── model/ │   └── test.py                 # Churn prediction model script
+
 
 ---
 
