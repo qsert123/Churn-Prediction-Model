@@ -1,7 +1,7 @@
 # Churn-Prediction-Model
 The Project implements a Churn prediction using Logistic Regression, which analyze customer patterns to predict the risk of leaving Customer
 ## 📂 Project Structure
-project/ │ ├── data/ │   └── cleaned_data.csv ├── churn_model.py ├── app.py ├── README.md
+  project/ │ ├── data/ │   └── cleaned_data.csv ├── churn_model.py ├── app.py ├──      README.md
 
 ---
 
@@ -27,7 +27,7 @@ project/ │ ├── data/ │   └── cleaned_data.csv ├── churn_mo
 
 ---
 ## Run the app
-streamlit run app.py
+  - streamlit run app.py
 ---
 
 
